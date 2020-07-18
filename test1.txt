@@ -1,10 +1,1 @@
- Volume in drive D is Personal
- Volume Serial Number is B259-B6F3
-
- Directory of D:\GIT-Projects
-
-18-07-2020  19:44    <DIR>          .
-18-07-2020  19:44    <DIR>          ..
-18-07-2020  19:44                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  236,966,809,600 bytes free
+i am changing to verify if git captures versions or not
