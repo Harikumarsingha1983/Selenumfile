@@ -1,0 +1,14 @@
+ Volume in drive D is Personal
+ Volume Serial Number is B259-B6F3
+
+ Directory of D:\GIT-Projects
+
+18-07-2020  22:19    <DIR>          .
+18-07-2020  22:19    <DIR>          ..
+18-07-2020  21:43               138 git
+18-07-2020  19:54                22 index.html
+18-07-2020  21:43               467 index2.html
+18-07-2020  21:44                65 test1.txt
+18-07-2020  22:19                 0 text2.txt
+               5 File(s)            692 bytes
+               2 Dir(s)  235,250,200,576 bytes free
